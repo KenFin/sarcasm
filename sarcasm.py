@@ -17,8 +17,7 @@ while True:
 
       compare2 = """!@#$%^&*()_+{}|:"<>?~""" # List of all the shifted special characters in the same order
 
-      count = 0
-      count2 = 0 # Counting to retain which space the special character is in
+      count = 0 # Counting to retain which space the special character is in
 
       if letter in compare:
 
